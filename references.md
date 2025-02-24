@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Hey, your file is conflicting with mine, but mine is BETTER!
